@@ -4,3 +4,4 @@ applications:
   instances: 1
   host: hello-spring-cloud-123qweasdyxc
   path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
+  default-route: false
