@@ -78,6 +78,8 @@
 
 		<spring-cloud.version>1.2.3.RELEASE</spring-cloud.version>
 		<postgres-driver.version>9.0-801.jdbc4</postgres-driver.version>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
 	</properties>
 
 	<build>
